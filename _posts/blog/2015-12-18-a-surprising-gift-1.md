@@ -1,3 +1,9 @@
+---
+layout:	post
+title:A Surprising Gift
+category: blog
+description: something about the imagination
+---
 #A surprising gift
 "Oh,sorry,but there's someone knocking my door,I'll call you back soon. " I walk to the door and open it. "Who are …"my mouth suddenly stop.There isn't anything outside the door but a small blue box. I feel strange. Is that a bomb? I don't know. I become nervous. So I walk into my room and take out a long scissors and a pair of glasses that is used to protect my eyes.  I use the scissors carefully to cut the cover of the box,looking if there is something dangerous. 
 
