@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:A Surprising Gift
+title:  A Surprising Gift
 category: blog
 description: something about the imagination
 ---
