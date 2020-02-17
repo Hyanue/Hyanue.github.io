@@ -5,7 +5,7 @@ rouge: true
 paginate: 8
 permalink: /:title
 
-title: 201601.in
-url: http://201601.in
+title: Hyanue
+url: https://hyanue.github.io
 feed: /atom.xml
-author_info: <a href="http://201601.in/">201601</a>
+author_info: <a href="https://hyanue.github.io/">Hyanue</a>
